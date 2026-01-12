@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Reports & generated files
+reports/
+*.pdf
+*.png
+*.jpg
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+Dataset Name,Rows,Columns,Column Names,Source
+Mall_Customers,5,200,"CustomerID, GenderAge,  Annual Income (k$), Spending Score (1-100)",https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales
+Superstore,17,"9,995","RowID, OrderID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name",https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Table Name,Column Names,,,
+Calendar,"Order Date, Ship Date",,,
+Customers,"CustomerID, Gender, Age Annual Income (k$), Spending Score(1-100)",,,
+Products,"ProductID, Product Name, Category, Sub-Category",,,
+Regions,"Region, State, City",,,
+Sales,"Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit",,,

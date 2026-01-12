@@ -1,0 +1,17 @@
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary
+sentence-transformers
+transformers
+pinecone-client
+python-dotenv
+fuzzywuzzy
+python-Levenshtein
+matplotlib
+reportlab
+PyPDF2
+scikit-learn
+tqdm
+langchain-community
+langchain-text-splitters

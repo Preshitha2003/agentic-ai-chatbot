@@ -1,0 +1,23 @@
+What are the main responsibilities of the Sales Operations team?
+Explain how discount and pricing policies are managed.
+What are the KPIs tracked for performance evaluation?
+Which region performed best according to the report?
+What are the key sales KPIs mentioned in the Q1 report?
+
+Create a short PDF report for top regions
+Generate PDF report for key KPIs
+Create report summarizing regional sales
+Save a report for revenue forecast
+
+Show total profit by region
+Display sales trend over time
+Show revenue share by category
+Visualize profit distribution
+
+Compare Canon imageCLASS 2200 Advanced Copier and HP Designjet T520 Inkjet Large Format Printer
+Compare Cisco TelePresence System EX90 and Mitel 5320 IP Phone VoIP phone
+Compare Eldon Fold 'N Roll Cart System with Eldon Expressions Desk Accessories
+Compare Fellowes PB500 Electric Punch Machine and GBC DocuBind TL300 Electric Binding System
+
+Predict next month’s total sales
+Forecast profit for upcoming quarter
