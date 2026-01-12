@@ -14,7 +14,18 @@ A unified **Agentic AI System** built with **Streamlit**, supporting:
 
 ## 🖼 Demo
 
-![Chat UI](screenshots/chat_ui.png)
+### Chat Interface & Capabilities
+
+![Chat UI](screenshots/chatui.png)
+![Chat UI](screenshots/chatui1.png)
+![Chat UI](screenshots/chatui2.png)
+![Chat UI](screenshots/chatui3.png)
+![Chat UI](screenshots/chatui4.png)
+![Chat UI](screenshots/chatui5.png)
+![Chat UI](screenshots/chatui6.png)
+![Chat UI](screenshots/chatui7.png)
+![Chat UI](screenshots/chatui8.png)
+
 
 ## 🧠 Architecture Overview
 
