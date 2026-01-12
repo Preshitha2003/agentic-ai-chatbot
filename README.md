@@ -12,6 +12,10 @@ A unified **Agentic AI System** built with **Streamlit**, supporting:
 
 ---
 
+## 🖼 Demo
+
+![Chat UI](screenshots/chat_ui.png)
+
 ## 🧠 Architecture Overview
 
 - `agentic_system.py` → Central router & agent orchestration
